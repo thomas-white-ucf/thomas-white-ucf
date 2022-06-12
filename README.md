@@ -1,20 +1,21 @@
 # 💫About Me :
 👋 Hi there, some stuff about me 👇
-👔 Actively looking for full time employment
-💯 JavaScript, React, and Node are my core skills
 
-🏡 Own a home and live in New Smyrna Beach, Florida
-🌻 My home garden is doing very well this year! 🌼🌽🌾🌿🍉🍊 
-🚀 Been watching KSC on Space Coast Launch rockets since I was a kid
-🏂 I'm a decent snowboarder
-⛺ Happy Camper
-🏃 Hiked 2,193.1 miles in 2021, completing the Appalachian Trail
+👔 Actively looking for full time employment<br/>
+💯 JavaScript, React, and Node are my core skills<br/>
+🏡 Own a home and live in New Smyrna Beach, Florida<br/>
+🌻 My home garden is doing very well this year! 🌼🌽🌾🌿🍉🍊<br/>
 
-📝 University of Central Florida Graduate
-👔 2015 - B.S. Mechanical Engineering
-🖥 2019 - Full Stack Web Development 6 month Bootcamp Graduate - MERN Stack
+🚀 Been watching KSC on Space Coast Launch rockets since I was a kid<br/>
+🏂 I'm a decent snowboarder<br/>
+⛺ Happy Camper<br/>
+🏃 Hiked 2,193.1 miles in 2021, completing the Appalachian Trail<br/>
 
-🤝 Lets get started!
+📝 University of Central Florida Graduate<br/>
+👔 2015 - B.S. Mechanical Engineering<br/>
+🖥 2019 - Full Stack Web Development 6 month Bootcamp Graduate - MERN Stack<br/>
+
+🤝 Lets connect on LinkedIn!<br/>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Twhite386) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Thomas-White-Engineering) 
