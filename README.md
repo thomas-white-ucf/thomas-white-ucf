@@ -2,9 +2,8 @@
 👋 Hi there, some stuff about me 👇
 
 [Development Portfolio - ](https://thomas-white-ucf.herokuapp.com/) Hosted on Heroku<br/>
-[Development Portfolio - ](https://thomas-white-ucf.github.io/) Hosted on Giithub-Pages<br/>
+[Development Portfolio - ](https://thomas-white-ucf.github.io/) Hosted on Github-Pages<br/>
 
-👔 Actively looking for full time employment<br/>
 💯 JavaScript, React, and Node are my core skills<br/>
 🏡 Own a home and live in New Smyrna Beach, Florida<br/>
 🌻 My home garden is doing very well this year! 🌼🌽🌾🌿🍉🍊<br/>
