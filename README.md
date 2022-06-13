@@ -9,7 +9,7 @@
 🏡 Own a home and live in New Smyrna Beach, Florida<br/>
 🌻 My home garden is doing very well this year! 🌼🌽🌾🌿🍉🍊<br/>
 
-🚀 Been watching KSC on Space Coast Launch rockets since I was a kid<br/>
+🚀 Been watching KSC on the Space Coast of Florida launch rockets since I was a kid<br/>
 🏂 I'm a decent snowboarder<br/>
 ⛺ Happy Camper<br/>
 🏃 Hiked 2,193.1 miles in 2021, completing the Appalachian Trail<br/>
